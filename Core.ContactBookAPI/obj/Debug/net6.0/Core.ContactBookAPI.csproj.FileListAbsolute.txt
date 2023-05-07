@@ -1,0 +1,121 @@
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.deps.json
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.runtimeconfig.json
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.dll
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.pdb
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.AssemblyReference.cache
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfoInputs.cache
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfo.cs
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CoreCompileInputs.cache
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CopyComplete
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\refint\Core.ContactBookAPI.dll
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.genruntimeconfig.cache
+C:\Users\donpa\Desktop\ContactBookApp\ContactBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\ref\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.deps.json
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.runtimeconfig.json
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CopyComplete
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\refint\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\New folder\Core.ContactBookAPI\obj\Debug\net6.0\ref\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.deps.json
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.runtimeconfig.json
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CopyComplete
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.genruntimeconfig.cache
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.deps.json
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.runtimeconfig.json
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.dll
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.pdb
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfo.cs
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CopyComplete
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Documents\ContactsBookAPICloudinary\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.deps.json
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.runtimeconfig.json
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CopyComplete
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\ContactsBookAPI\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.deps.json
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.runtimeconfig.json
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\Testing\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.deps.json
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.runtimeconfig.json
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\bin\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\bin\Debug\net6.0\Domain.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.csproj.CopyComplete
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.dll
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.xml
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.pdb
+C:\Users\Decagon\Desktop\MY_TASKS\week-7-Ordunharlaryor\Core.ContactBookAPI\obj\Debug\net6.0\Core.ContactBookAPI.genruntimeconfig.cache
